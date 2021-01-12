@@ -5,10 +5,10 @@ How to reach me:
 <!--
 - <img align="left" alt="https://omkarshelar.dev" width="22px" src="assets/globe.svg" />:arrow_right:&nbsp;[https://omkarshelar.dev](https://omkarshelar.dev)
 -->
-- <img align="left" alt="https://omkarshelar.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />:arrow_right:&nbsp;[omkarshelar24@gmail.com](mailto:omkarshelar24@gmail.com)
+- <img align="left" alt="Email" width="22px" src="assets/email.png" />:arrow_right:&nbsp;[omkarshelar24@gmail.com](mailto:omkarshelar24@gmail.com)
 
-- <img align="left" alt="https://omkarshelar.dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />:arrow_right:&nbsp;[https://www.linkedin.com/in/omkar-shelar-889783166/](https://www.linkedin.com/in/omkar-shelar-889783166/)
-- <img align="left" alt="https://omkarshelar.dev" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />:arrow_right:&nbsp;[@omkarshelar24](https://twitter.com/omkarshelar24)
+- <img align="left" alt="LinkedIn" width="22px" src="assets/linkedin.svg" />:arrow_right:&nbsp;[https://www.linkedin.com/in/omkar-shelar-889783166/](https://www.linkedin.com/in/omkar-shelar-889783166/)
+- <img align="left" alt="Twitter" width="22px" src="assets/twitter.svg" />:arrow_right:&nbsp;[@omkarshelar24](https://twitter.com/omkarshelar24)
 
 Check my pinned repositories below  :arrow_down:
 
