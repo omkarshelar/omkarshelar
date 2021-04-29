@@ -6,7 +6,7 @@ How to reach me:
 - <img align="left" alt="https://omkarshelar.dev" width="22px" src="assets/globe.svg" />:arrow_right:&nbsp;[https://omkarshelar.dev](https://omkarshelar.dev)
 -->
 - Email - [omkarshelar24@gmail.com](mailto:omkarshelar24@gmail.com)
-- LinkedIn - [https://www.linkedin.com/in/omkar-shelar-889783166/](https://www.linkedin.com/in/omkar-shelar-889783166/)
+- LinkedIn - [https://www.linkedin.com/in/omkar-shelar/](https://www.linkedin.com/in/omkar-shelar/)
 - Twitter - [@omkarshelar24](https://twitter.com/omkarshelar24)
 
 Check my pinned repositories below  :arrow_down:
