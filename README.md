@@ -5,7 +5,8 @@ How to reach me:
 <!--
 - <img align="left" alt="https://omkarshelar.dev" width="22px" src="assets/globe.svg" />:arrow_right:&nbsp;[https://omkarshelar.dev](https://omkarshelar.dev)
 -->
-- Email - [omkarshelar24@gmail.com](mailto:omkarshelar24@gmail.com)
+- Web - [https://omkarshelar.dev](https://omkarshelar.dev)
+- Email - [hi@omkarshelar.dev](mailto:hi@omkarshelar.dev) or [omkarshelar24@gmail.com](mailto:omkarshelar24@gmail.com)
 - LinkedIn - [https://www.linkedin.com/in/omkar-shelar/](https://www.linkedin.com/in/omkar-shelar/)
 - Twitter - [@omkarshelar24](https://twitter.com/omkarshelar24)
 
