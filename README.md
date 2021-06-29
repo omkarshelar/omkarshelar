@@ -10,9 +10,7 @@ How to reach me:
 - LinkedIn - [https://www.linkedin.com/in/omkar-shelar/](https://www.linkedin.com/in/omkar-shelar/)
 - Twitter - [@omkarshelar24](https://twitter.com/omkarshelar24)
 
-<div>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarshelar&layout=compact" alt="omkarshelar" /></p>
-</div>
 
 Check my pinned repositories below  :arrow_down:
 
