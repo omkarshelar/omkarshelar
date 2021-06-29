@@ -11,7 +11,7 @@ How to reach me:
 - Twitter - [@omkarshelar24](https://twitter.com/omkarshelar24)
 
 <div>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarshelar&layout=compact" alt="omkarshelar" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarshelar&layout=compact" alt="omkarshelar" /></p>
 </div>
 
 Check my pinned repositories below  :arrow_down:
